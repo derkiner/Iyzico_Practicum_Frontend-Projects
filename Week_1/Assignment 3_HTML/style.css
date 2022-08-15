@@ -1,0 +1,140 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
+
+/* GENERAL CONTENT*/
+
+*,
+::after,
+::before {
+  box-sizing: border-box;
+}
+
+body {
+  background: lightgrey;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-weight: 400;
+  line-height: 1.75;
+  color: rgb(56, 50, 50);
+}
+
+#line {
+  height: 3.5rem;
+  background-color: rgb(110, 110, 162);
+  box-shadow: 0.5rem 0.5rem 0.7rem rgba(0, 0, 0, 0.5);
+}
+
+#line #magazine-title {
+  color: rgb(49, 49, 142);
+  text-align: center;
+  text-shadow: 1px 2px 3px rgb(74, 84, 227);
+}
+
+.container {
+  background-color: rgb(227, 216, 216);
+}
+
+/* HEADER */
+.header-wrapper {
+  background-color: #d9d9cb;
+  text-align: center;
+}
+
+#recipe-title {
+  text-shadow: 1px 2px 3px rgb(204, 95, 95);
+  padding: 0.5rem;
+}
+
+#recipe-name {
+  text-transform: uppercase;
+  color: navy;
+  text-shadow: 1px 1px 1px rgb(32, 25, 25);
+}
+
+#muffin-photo {
+  border-radius: 100px;
+}
+
+#intro {
+  font-family: "Lobster", cursive;
+  font-size: 1.2rem;
+  width: 50%;
+  margin-left: 26%;
+}
+
+#magazine {
+  color: rgb(130, 25, 228);
+}
+
+/* BASIC DETAILS */
+
+.recipe-wrapper {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+#basic-info {
+  font-size: 1rem;
+  padding-top: 3rem;
+  text-align: center;
+  background-color: blanchedalmond;
+}
+
+.recipe-owner-wrapper {
+  text-align: center;
+}
+
+#recipe-owner-photo-wrapper {
+  text-align: center;
+  padding-top: 2rem;
+}
+
+#recipe-owner-photo-wrapper img {
+  border-radius: 50%;
+  opacity: 0.8;
+  size: 50%;
+}
+
+#calorie {
+  margin-top: 2rem;
+  text-align: center;
+  text-decoration: overline;
+}
+
+/* INGREDIENTS */
+
+#ingredients-wrapper {
+  background-image: linear-gradient(to top, pink, rgb(221, 191, 191));
+  text-align: center;
+}
+
+.ingredients {
+  list-style: none;
+}
+
+/* INSTRUCTIONS*/
+
+.author-wish-wrapper {
+  background-color: rgb(235, 242, 240);
+}
+
+#cook-vector {
+  text-align: center;
+  padding: 5rem;
+}
+.recipe-owner-wrapper {
+  background-color: rgb(215, 209, 200);
+}
+
+/* AUTHOR-WISH */
+.author-wish-wrapper {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+#cook-vector {
+  border-radius: 100px;
+}
+
+a {
+  color: blue;
+  font-weight: 700;
+}

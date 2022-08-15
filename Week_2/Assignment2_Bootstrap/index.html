@@ -1,0 +1,470 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/270ae474d6.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="/style.css">
+    <title>Instagram Front-end Clone</title>
+
+    <!-- bootstrap integration -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css"
+        integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js"></script>
+</head>
+
+
+
+<body class="bd-example">
+
+    <!--nav starts-->
+    <nav class="navbar navbar-expand-lg bg-light margin-top:2px position-relative">
+        <!--container starts-->
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#">
+                <img width="130px" src="/img/insta_logo.svg.png" alt="Insta Logo">
+            </a>
+
+
+            <!--searchbar starts-->
+            <form class="d-flex position-absolute top-50 start-50 translate-middle">
+                <input style="width: 500px;" class="form-control mp-2" type="search" placeholder="Search"
+                    aria-label="Search">
+            </form>
+            <!--searchbar ends-->
+
+
+            <!--right navbar starts-->
+            <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                <div class="navbar-nav ml-auto">
+                    <!-- right navbar links start-->
+                    <a class="nav-link active" aria-current="page" href="#">
+                        <img width="35px" src="/img/home-icon.jpeg" alt="Home Icon">
+                    </a>
+                    <a class="nav-link" href="#">
+                        <img width="35px" src="/img/flaticon.png" alt="Flaticon">
+                    </a>
+                    <a class="nav-link" href="#">
+                        <img width="45px" src="/img/heart-icon.png" alt="Explore">
+                    </a>
+                    <a class="nav-link" href="#">
+                        <img width="35px" src="/img/owner-pic.png" class="rounded-circle" alt="D.Erkiner">
+                    </a>
+                    <!-- right navbar links end-->
+                </div>
+            </div>
+            <!--right navbar ends-->
+        </div>
+        <!--container ends-->
+    </nav>
+    <!-- nav ends-->
+
+
+
+    <!-- general content begins-->
+    <div class="row mt-5 ml-5">
+
+        <!-- left section begins -->
+        <div class="col-sm-7">
+
+            <!-- animated stories begin -->
+            <div class="row mt-3 ml-1 bg-light rounded-lg ">
+
+                <!-- 1st animated story begins-->
+                <div class="col-sm-2">
+                    <a class="nav-link" href="#">
+                        <img style="border-radius: 80%;" height="100px" width="60px" src="/img/owner-pic.png"
+                            alt=" D.Erkiner">
+                    </a>
+                    <p class="fw-lighter ml-3 text-black ">D.Erkiner</p>
+                </div>
+                <!-- 1st animated story ends-->
+
+
+                <!--2nd animated story begins--->
+                <div class="col-sm-2">
+                    <a class="nav-link" href="#">
+                        <img width="80px"
+                            src="https://images.unsplash.com/photo-1520813792240-56fc4a3765a7?ixlib=rb-1.2.1&q=80&fm=jpg&crop=faces&fit=crop&h=200&w=200&ixid=eyJhcHBfaWQiOjE3Nzg0fQ"
+                            class="rounded-circle " alt="Katie Sam">
+                    </a>
+                    <p class="fw-lighter ml-3 text-black ">Katie Sam</p>
+                </div>
+                <!--2nd animated story ends--->
+
+
+                <!--3rd animated story begins--->
+                <div class="col-sm-2">
+                    <a class="nav-link" href="#">
+                        <img width="80px" src="https://randomuser.me/api/portraits/men/4.jpg" class="rounded-circle "
+                            alt="B.Joe">
+                    </a>
+                    <p class="fw-lighter ml-3 text-black ">Bobby Jr.</p>
+                </div>
+                <!--3rd animated story ends--->
+
+
+                <!--4th animated story begins--->
+                <div class="col-sm-2">
+                    <a class="nav-link" href="#">
+                        <img width="80px" src="https://randomuser.me/api/portraits/women/87.jpg"
+                            class="rounded-circle  " alt="K.Farber">
+                    </a>
+                    <p class="fw-lighter ml-3 text-black ">Kim Farber</p>
+                </div>
+                <!--4th animated story ends--->
+
+
+                <!--5th animated story begins--->
+                <div class="col-sm-2">
+                    <a class="nav-link" href="#">
+                        <img width="80px" src="https://randomuser.me/api/portraits/men/12.jpg" class="rounded-circle "
+                            alt="B.White">
+                    </a>
+                    <p class="fw-lighter ml-3 text-black ">Barry White</p>
+                </div>
+                <!--5th animated story ends--->
+
+
+                <!--6th animated story begins--->
+                <div class="col-sm-2">
+                    <a class="nav-link" href="#">
+                        <img width="80px" src="https://randomuser.me/api/portraits/men/16.jpg" class="rounded-circle "
+                            alt="Joe Donald">
+                    </a>
+                    <p class="fw-lighter ml-3 text-black ">Joe Donald</p>
+                </div>
+                <!--6th animated story ends--->
+
+            </div>
+            <!-- animated stories end -->
+
+
+            <!-- 1st card starts-->
+            <div class="card mt-4 rounded-lg">
+                <div class="card-body">
+                    <!--user info / photo -->
+                    <h5 class="card-title">
+                        <img width="50px" src="https://randomuser.me/api/portraits/women/30.jpg" class="rounded-circle "
+                            alt="Barbara Watson">
+                        Barbara Watson
+                    </h5>
+                </div>
+                <!-- post snapshot-->
+                <img src="https://images.pexels.com/photos/235516/pexels-photo-235516.jpeg?h=350&auto=compress&cs=tinysrgb"
+                    class="card-img-bottom rounded-lg" alt="Post Picture">
+
+                <!-- mini navbar start -->
+                <div class="card-header  border rounded-lg">
+                    <nav class="navbar navbar-expand-lg bg-light">
+                        <div class="container">
+                            <div class="collapse navbar-collapse" id="navbarText">
+                                <ul class="navbar-nav">
+                                    <li class="nav-item">
+                                        <img width="35px" src="/img/like-icon.png" alt="Like Icon">
+                                    </li>
+                                    <li class="nav-item">
+                                        <img width="30px" class="ml-4 mt-1" src="/img/bubble-icon.webp"
+                                            alt="Bubble Icon">
+                                    </li>
+                                    <li class="nav-item">
+                                        <img width="33px" class="ml-4" src="/img/arrow-icon.png" alt="Arrow Icon">
+                                    </li>
+                                </ul>
+                            </div>
+                            <p class=" nav-item text-end ">
+                                <img width="33px" class="mt-1" src="/img/save-icon.webp" alt="Save Icon">
+                            </p>
+                        </div>
+                    </nav>
+                </div>
+                <!-- mini navbar end-->
+
+
+                <div class="card-body text rounded-lg">
+                    <h5 class="card-title">
+                        <img width="30px"
+                            src="https://images.unsplash.com/photo-1502990496687-86b4125674b5?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=200&fit=max&s=8ad76cc470a7f4a2d784e4ad9312ad00"
+                            class="rounded-circle " alt="Becky Simpson">
+                        <b> Becky Simpson </b> and <b> 32 people </b> liked.
+                    </h5>
+
+                    <h5 class="card-title">
+                        <b> Damla Erkiner </b>
+                    </h5>
+                    <p class="card-text text-muted">See all comments...</p>
+                    <p class="card-text text-muted fst-italic">8 Days Ago
+                    </p>
+                </div>
+                <div class="card-footer border rounded-lg">
+                    <!--comments start-->
+                    <div>
+                        <span class="input-group-text">
+                            <img width="40px" src="/img/smiley.webp" alt="share">
+                            <input type="text" class="form-control ml-2" id="floatingInputGroup1"
+                                placeholder="Comment...">
+                        </span>
+                    </div>
+                    <!--comments end-->
+                </div>
+            </div>
+            <!-- 1st card ends-->
+
+
+            <!-- 2nd card starts-->
+            <div class="card mt-4 rounded-lg">
+                <div class="card-body">
+                    <!--user info / photo -->
+                    <h5 class="card-title">
+                        <img width="50px"
+                            src="https://images.pexels.com/photos/638700/pexels-photo-638700.jpeg?h=350&auto=compress&cs=tinysrgb"
+                            class="rounded-circle " alt="Barbara Watson">
+                        Barbara Watson
+                    </h5>
+                </div>
+                <!-- post snapshot-->
+                <img src="https://images.pexels.com/photos/235462/pexels-photo-235462.jpeg?h=350&auto=compress&cs=tinysrgb"
+                    class="card-img-bottom rounded-lg" alt="Post Picture">
+
+                <!-- mini navbar start -->
+                <div class="card-header  border rounded-lg">
+                    <nav class="navbar navbar-expand-lg bg-light">
+
+                        <div class="container">
+                            <div class="collapse navbar-collapse" id="navbarText">
+                                <ul class="navbar-nav">
+                                    <li class="nav-item">
+                                        <img width="35px" src="/img/like-icon.png" alt="Like Icon">
+                                    </li>
+                                    <li class="nav-item">
+                                        <img width="30px" class="ml-4 mt-1" src="/img/bubble-icon.webp"
+                                            alt="Bubble Icon">
+                                    </li>
+                                    <li class="nav-item">
+                                        <img width="33px" class="ml-4" src="/img/arrow-icon.png" alt="Arrow Icon">
+                                    </li>
+                                </ul>
+                            </div>
+                            <p class=" nav-item text-end ">
+                                <img width="33px" class="mt-1" src="/img/save-icon.webp" alt="Save Icon">
+                            </p>
+                        </div>
+                    </nav>
+                    <!-- mini navbar end-->
+
+
+                </div>
+                <div class="card-body text rounded-lg">
+                    <h5 class="card-title">
+                        <img width="30px" src="https://randomuser.me/api/portraits/men/1.jpg" class="rounded-circle "
+                            alt="Garry Stevenson">
+                        <b> Garry Stevenson </b> and <b> 14 people </b> liked.
+                    </h5>
+
+                    <h5 class="card-title">
+                        <b> Damla Erkiner </b>
+
+                    </h5>
+                    <p class="card-text text-muted">See all comments...</p>
+                    <p class="card-text text-muted fst-italic"> 3 Days Ago
+                    </p>
+                </div>
+                <div class="card-footer border rounded-lg">
+                    <!--comments start-->
+                    <div>
+                        <span class="input-group-text">
+                            <img width="40px" src="/img/smiley.webp" alt="share">
+                            <input type="text" class="form-control ml-2" id="floatingInputGroup1"
+                                placeholder="Comment...">
+                        </span>
+                    </div>
+                    <!--comments end-->
+                </div>
+            </div>
+            <!-- 2nd card end-->
+
+
+
+            <!-- 3rd card starts-->
+            <div class="card mt-4 rounded-lg">
+                <div class="card-body">
+                    <!--user info / photo -->
+                    <h5 class="card-title">
+
+                        <img width="50px" src="https://randomuser.me/api/portraits/men/46.jpg" class="rounded-circle "
+                            alt=" Emmanuel LePetite">
+                        Emmanuel LePetite
+                    </h5>
+                </div>
+                <!-- post snapshot-->
+                <img src="https://images.pexels.com/photos/927451/pexels-photo-927451.jpeg?cs=srgb&dl=pexels-andrea-piacquadio-927451.jpg&fm=jpg"
+                    class="card-img-bottom rounded-lg" alt="Post Picture">
+
+                <!-- mini navbar start -->
+                <div class="card-header  border rounded-lg">
+                    <nav class="navbar navbar-expand-lg bg-light">
+
+                        <div class="container">
+                            <div class="collapse navbar-collapse" id="navbarText">
+                                <ul class="navbar-nav">
+                                    <li class="nav-item">
+                                        <img width="35px" src="/img/like-icon.png" alt="Like Icon">
+                                    </li>
+                                    <li class="nav-item">
+                                        <img width="30px" class="ml-4 mt-1" src="/img/bubble-icon.webp"
+                                            alt="Bubble Icon">
+                                    </li>
+                                    <li class="nav-item">
+                                        <img width="33px" class="ml-4" src="/img/arrow-icon.png" alt="Arrow Icon">
+                                    </li>
+                                </ul>
+                            </div>
+                            <p class=" nav-item text-end ">
+                                <img width="33px" class="mt-1" src="/img/save-icon.webp" alt="Save Icon">
+                            </p>
+                        </div>
+                    </nav>
+                    <!-- mini navbar end-->
+
+
+                </div>
+                <div class="card-body text rounded-lg">
+                    <h5 class="card-title">
+                        <img width="30px" src="https://randomuser.me/api/portraits/men/4.jpg" class="rounded-circle "
+                            alt="Jack Watson">
+                        <b> Jack Watson </b> and <b> 58 people </b> liked.
+                    </h5>
+
+                    <h5 class="card-title">
+                        <b> Damla Erkiner </b>
+
+                    </h5>
+                    <p class="card-text text-muted">See all comments...</p>
+                    <p class="card-text text-muted fst-italic">12 Hours Ago
+                    </p>
+                </div>
+                <div class="card-footer border rounded-lg">
+                    <!--comments start-->
+                    <div>
+                        <span class="input-group-text">
+                            <img width="40px" src="/img/smiley.webp" alt="share">
+                            <input type="text" class="form-control ml-2" id="floatingInputGroup1"
+                                placeholder="Comment...">
+                        </span>
+                    </div>
+                    <!--comments end-->
+                </div>
+            </div>
+            <!-- 3rd card ends-->
+        </div>
+        <!-- left section ends -->
+
+
+
+        <!-- right section begins-->
+        <div class="col-sm-5 mt-5 d-none d-xl-block ">
+
+            <div class="card">
+
+                <div class="card-body">
+                    <div class="row mt-4 card-title ">
+
+                        <div class="col-sm-2 ">
+                            <img width="80px" src="/img/owner-pic.png" class="rounded-circle " alt="Phoenix">
+                        </div>
+                        <div class="col-sm-8 ">
+
+                            <br>
+                            <b class="ml-2 fs-5  "><b>Damla Erkiner</b> </b>
+                        </div>
+
+                    </div>
+
+                    <!-- recommendation content starts-->
+                    <div class="row mt-5 card-title">
+                        <!-- recommendation list starts-->
+                        <div class="col-sm-8">
+                            <h5 class="text-muted">Recommended for you </h5>
+                            <!-- recommended person 1-->
+                            <img width="50px" src="https://randomuser.me/api/portraits/men/52.jpg"
+                                class="rounded-circle " alt="Jack Jones">
+                            <b> Jack Jones</b>
+                            <br>
+                            <br>
+                            <!-- recommended person 2-->
+                            <img width="50px"
+                                src="https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-0.3.5&q=80&fm=jpg&crop=faces&fit=crop&h=200&w=200&s=046c29138c1335ef8edee7daf521ba50"
+                                class="rounded-circle " alt="Mary Hatkins">
+                            <b> Mary Hatkins </b>
+                            <br>
+
+                            <br>
+                            <!-- recommended person 3-->
+                            <img width="50px" src="https://randomuser.me/api/portraits/men/97.jpg"
+                                class="rounded-circle " alt="Kyle Reeves">
+                            <b> Kyle Reeves </b>
+                            <br>
+                            <br>
+                            <!-- recommended person 4-->
+                            <img width="50px" src="https://randomuser.me/api/portraits/women/51.jpg"
+                                class="rounded-circle " alt="Jinx Connor">
+                            <b> Jinx Connor </b>
+                            <br>
+                            <br>
+                            <!-- recommended person 5-->
+                            <img width="50px" src="https://randomuser.me/api/portraits/women/30.jpg"
+                                class="rounded-circle " alt="Fatima Axel">
+                            <b> Fatima Axel </b>
+                            <br>
+
+                        </div>
+                        <!-- recommendation list ends -->
+
+
+                        <!-- follow buttons start -->
+                        <div class="col-sm-4">
+                            <b>
+                                <h5 class="text-dark">See all </h5>
+                            </b>
+                            <br>
+                            <b class="text-info"> Follow </b>
+                            <br>
+                            <br>
+                            <br>
+                            <b class="text-info"> Follow </b>
+                            <br>
+                            <br><br>
+                            <b class="text-info"> Follow </b>
+                            <br>
+                            <br><br>
+                            <b class="text-info"> Follow </b>
+                            <br>
+                            <br><br>
+                            <b class="text-info"> Follow </b>
+                            <br>
+                        </div>
+                        <!-- follow buttons end -->
+                    </div>
+                    <!-- recommendation content ends-->
+                </div>
+
+
+                <!-- copyright starts-->
+                <div class="card-footer bg-transparent">
+                    <p class="fs-6 fw-lighter">
+                        Copyright &copy; 2022 Instagram Inc. All Rights Reserved.
+                    </p>
+                </div>
+                <!-- copyright ends-->
+            </div>
+        </div>
+        <!-- right section ends-->
+    </div>
+    <!-- general content ends-->
+
+
+</body>
+</html>

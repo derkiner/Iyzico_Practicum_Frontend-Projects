@@ -1,0 +1,129 @@
+/* GENERAL - UTILS */
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+}
+
+.icon {
+  height: 25px;
+  opacity: 40%;
+  cursor: pointer;
+  margin-right: 15px;
+  margin-top: -3px;
+}
+.icon:hover {
+  opacity: 100%;
+}
+
+/* HEADER */
+.header {
+  overflow: hidden;
+  background-color: white;
+}
+
+.header ul li {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 12px 14px;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.header-right {
+  float: right;
+  margin-bottom: 3rem;
+}
+
+/* SEARCH SECTION */
+.search-section {
+  position: absolute;
+  top: 45%;
+  left: 50%;
+  text-align: center;
+  transform: translate(-50%, -50%);
+}
+.google-logo {
+  margin-bottom: 22px;
+}
+.search-logo {
+  position: absolute;
+  top: 50%;
+  left: 3%;
+  width: 25px;
+  opacity: 50%;
+}
+.inputbar {
+  width: 480px;
+  height: 45px;
+  margin: auto;
+  outline: none;
+  border-radius: 50px;
+  border: 1px solid #d6d6d4;
+  color: #202124;
+  font-size: 16px;
+  font-weight: 400;
+  padding-left: 50px;
+  padding-right: 50px;
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.4);
+}
+.logo-voicesearch {
+  position: absolute;
+  top: 50%;
+  right: 3%;
+  width: 20px;
+  cursor: pointer;
+}
+
+/* SEARCH BUTTONS */
+.search-buttons {
+  height: 36px;
+  text-align: center;
+  padding: 0px 10px;
+  font-family: sans-serif;
+  border: none;
+  color: #5f6368;
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.4);
+  width: 150px;
+  opacity: 80%;
+  margin-right: 10px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  outline: none;
+  font-size: 14px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.search-buttons:hover {
+  border: 1px solid #d6d6d4;
+  opacity: 100%;
+}
+
+/* FOOTER */
+.footer {
+  background-color: #f2f2f2;
+  margin-left: -10px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  padding: 15px 10px 13px 10px;
+}
+
+.footer .left {
+  display: block;
+  float: left;
+  margin-left: 2rem;
+}
+
+.footer .right {
+  display: block;
+  float: right;
+  position: relative;
+  right: 15px;
+}
+.footer span {
+  margin: 0 10px;
+}

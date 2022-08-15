@@ -1,0 +1,84 @@
+/* General */
+
+* {
+  margin: 2px;
+  padding: 2px;
+  text-align: center;
+}
+
+body {
+  width: 1100px;
+  margin: 0 auto;
+  display: inline-block;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: rgb(77, 72, 72);
+}
+
+img {
+  padding-top: 8rem;
+}
+
+/* Main Search */
+
+.search-wrapper {
+  background-color: rgb(240, 231, 231);
+  width: auto;
+  margin: 0 auto;
+}
+
+label .search {
+  padding: 5px;
+  width: 15%;
+  cursor: pointer;
+  background-color: rgb(208, 195, 195);
+}
+
+p {
+  padding-top: 0;
+}
+
+input[name="input"] {
+  width: 70%;
+  border: 1px solid rgb(142, 135, 135);
+}
+
+input[type="submit"] {
+  border: 1px solid rgb(211, 203, 203);
+  border-radius: 8px;
+  background-color: white;
+  display: inline;
+}
+
+/* Links - Table Styling */
+
+table {
+  border-collapse: collapse;
+  padding-top: 1.5rem;
+}
+
+table,
+th,
+td {
+  border: none;
+}
+
+td,
+th {
+  background-color: rgb(186, 232, 217);
+}
+
+#email-input {
+  text-align: left;
+  width: 50%;
+}
+
+#subscribe {
+  margin: 0;
+  padding: 1px;
+  width: 18%;
+}
+
+/* copyright */
+#copyright {
+  margin-top: 0.875rem;
+}

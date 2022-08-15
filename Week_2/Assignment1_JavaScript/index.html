@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/270ae474d6.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="/style.css">
+    <title>Clock</title>
+</head>
+<body>
+
+
+    <!-- current date button starts -->
+    <div class="btn-container">
+        <button id="btn" type="button" onclick="document.getElementById('date_button').innerHTML = Date()">
+            Show the current date </button>
+        <div id="date_button"></div>
+    </div>
+    <!-- current date button ends -->
+
+
+
+
+    <!-- top text starts -->
+    <div class="text1">
+        Hi there! <strong><span id="myName"></span></strong> Hover over the clock!
+    </div>
+    <!-- top text ends -->
+
+
+
+
+    <!-- clock starts -->
+    <div class="container">
+        <div class="clock">
+            <div class="numbers">
+                <div class="twelve">12</div>
+                <div class="three">3</div>
+                <div class="six">6</div>
+                <div class="nine">9</div>
+            </div>
+            <div class="arrows">
+                <div class="hour"></div>
+                <div class="minute"></div>
+                <div class="second"></div>
+            </div>
+        </div>
+    </div>
+    <!-- clock ends -->
+
+
+
+
+
+
+    <script src="/script.js"></script>
+
+</body>
+</html>

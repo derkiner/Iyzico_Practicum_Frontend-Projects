@@ -1,0 +1,212 @@
+@import url("https://fonts.googleapis.com/css2?family=Concert+One&family=Dancing+Script:wght@700&family=Lobster&family=Roboto:wght@100&family=Supermercado+One&display=swap");
+
+/* GENERAL CONTENT */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Lobster", Arial, Helvetica, sans-serif;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  background: linear-gradient(rgb(170, 155, 155), rgba(0, 0, 0, 0.45)),
+    url("https://images.unsplash.com/photo-1647101295412-527ed53a11ae?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=388&q=80")
+      no-repeat;
+  background-size: 100vw 120vh;
+  margin-top: 3rem;
+}
+
+/* CURRENT DATE BUTTON */
+#btn {
+  width: 40rem;
+  border-radius: 100px;
+  height: 4rem;
+  margin: 0 auto;
+  display: block;
+  margin-top: 1rem;
+  box-shadow: 2px 6px 4px 3px rgba(0, 0, 0, 0.45);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 1.5rem;
+  background-color: #cee7ce;
+  margin-bottom: 1rem;
+  text-transform: uppercase;
+  font-weight: 700;
+  text-shadow: 1px 2px 1px rgba(0, 0, 0, 0.45);
+  letter-spacing: 1px;
+}
+
+#date_button {
+  font-size: 2rem;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+/* TOP TEXT */
+.text1 {
+  margin-top: 0;
+  width: 100%;
+  height: 4rem;
+  text-align: center;
+  font-size: 5rem;
+  color: rgb(243, 83, 25);
+  text-shadow: 1px 2px 1px #000000;
+  text-transform: capitalize;
+}
+
+/* CLOCK */
+.container {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.clock {
+  width: 40rem;
+  height: 40rem;
+  background-image: linear-gradient(to right, #03fc8c, rgb(58, 58, 44));
+  border-radius: 50%;
+  -webkit-box-shadow: 5px 5px 5px 0px #5e3c3c, inset 4px 4px 15px 0px #5a4545,
+    5px 5px 50px 5px rgba(189, 157, 157, 0);
+  box-shadow: 5px 5px 5px 0px #000000, inset 4px 4px 50px 0px #000000,
+    5px 5px 15px 5px rgba(105, 75, 75, 0);
+  position: relative;
+  opacity: 0.8;
+  overflow: hidden;
+  margin-bottom: 15rem;
+}
+
+.numbers {
+  width: inherit;
+  height: inherit;
+  position: relative;
+}
+
+.numbers div {
+  position: absolute;
+  font-size: 5rem;
+  text-shadow: 0.2rem 0.4rem 0.4rem #696888;
+}
+
+.twelve {
+  top: 0.5rem;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.three {
+  right: 2rem;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.six {
+  bottom: 0.5rem;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.nine {
+  left: 1rem;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.arrows {
+  width: inherit;
+  height: inherit;
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.arrows::before {
+  content: "";
+  width: 2rem;
+  height: 2rem;
+  background-color: rgb(15, 10, 10);
+  border-radius: 50%;
+
+  box-shadow: 0.2rem 0.2rem 0.5rem rgb(29, 21, 21);
+  z-index: 1;
+}
+
+.arrows div {
+  width: 0.6rem;
+  height: 11rem;
+  background-color: rgb(43, 34, 34);
+  position: absolute;
+  bottom: 50%;
+  box-shadow: 0.2rem 0.2rem 0.5rem rgb(197, 186, 186);
+  border-radius: 100% 100% 0 0;
+  transform-origin: bottom center;
+}
+
+.arrows .second {
+  background-color: rgb(196, 73, 64);
+  transform: rotate(270deg);
+}
+
+.arrows .hour {
+  height: 10rem;
+  transform: rotate(90deg);
+}
+
+/* RIPPLE EFFECT */
+
+.ripple {
+  position: absolute;
+  width: 0;
+  height: 0;
+  background-image: linear-gradient(to right, red, orange);
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+  animation: rippleAnim 0.5s forwards;
+}
+
+@keyframes rippleAnim {
+  0% {
+    width: 0;
+    height: 0;
+  }
+  100% {
+    width: 250%;
+    height: 250%;
+  }
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  #btn {
+    width: 30rem;
+    margin-top: 5rem;
+    background-color: #cee7ce;
+    margin-bottom: 1rem;
+  }
+
+  .container {
+    padding: 0;
+
+    height: 70rem;
+  }
+
+  .clock {
+    width: 30rem;
+    height: 30rem;
+  }
+
+  .text1 {
+    width: 100%;
+    height: 3rem;
+    font-size: 4rem;
+    color: rgb(243, 83, 25);
+  }
+}

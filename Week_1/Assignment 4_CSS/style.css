@@ -1,0 +1,282 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
+
+/* GENERAL CONTENT */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  line-height: 1.6;
+  color: rgb(46, 44, 41);
+  background-color: rgb(249, 245, 241);
+}
+
+h1,
+h2,
+h3,
+h4 {
+  line-height: 1.3;
+}
+
+a {
+  color: #444;
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+.container {
+  max-width: 1100px;
+  margin: auto;
+  overflow: hidden;
+  padding: 0 2rem;
+}
+
+/* NAVBAR */
+.navbar {
+  font-size: 1.2rem;
+  padding-top: 0.3rem;
+  padding-bottom: 0.3rem;
+}
+
+.navbar .container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 2rem;
+}
+
+.navbar .logo {
+  text-shadow: 1px 1px 1px blue;
+  font-family: "Lobster", cursive;
+  font-size: 4rem;
+  letter-spacing: 5px;
+}
+
+.navbar ul {
+  justify-self: flex-end;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+}
+
+.navbar a {
+  padding: 0 1rem;
+  color: rgb(158, 154, 198);
+  text-shadow: 1px 2px 1px rgb(21, 21, 24);
+}
+
+.navbar a:hover {
+  color: #555;
+}
+
+/* SECTION-A */
+.section-a {
+  margin: 2rem 0;
+}
+
+.section-a .container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 5.5rem;
+  align-items: center;
+  justify-content: center;
+}
+
+.section-a h1 {
+  font-size: 4rem;
+  color: rgb(91, 83, 83);
+}
+
+.section-a p {
+  margin: 1rem 0;
+}
+
+.section-a .container img {
+  border-radius: 100px;
+  box-shadow: 0 1px 4px 2px rgba(0, 0, 0, 0.5);
+}
+
+/* SECTION-B */
+.section-b {
+  position: relative;
+  background: url("https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?cs=srgb&dl=pexels-chevanon-photography-302899.jpg&fm=jpg")
+    no-repeat center/cover;
+  height: 600px;
+  opacity: 0.8;
+}
+
+.section-b-inner {
+  color: rgb(232, 210, 210);
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: left;
+  margin: auto;
+  max-width: 860px;
+  padding: 5rem 0;
+}
+
+.section-b-inner h3 {
+  font-size: 3rem;
+  display: inline-block;
+  width: 30rem;
+  margin-right: 50rem;
+}
+
+.section-b-inner h2 {
+  font-size: 3rem;
+  margin-top: 1rem;
+  display: inline-block;
+  width: 30rem;
+  margin-right: 50rem;
+}
+
+.section-b-inner p {
+  font-size: 1rem;
+  margin-top: 1rem;
+  display: inline-block;
+  width: 22rem;
+  margin-right: 54rem;
+}
+
+/* CONTACT.html */
+
+.contact-container {
+  width: 100vw;
+  height: 100vh;
+  background-color: red;
+  position: relative;
+  background: url("https://images.pexels.com/photos/373639/pexels-photo-373639.jpeg?cs=srgb&dl=pexels-porapak-apichodilok-373639.jpg&fm=jpg")
+    no-repeat center/cover;
+  height: 600px;
+  opacity: 0.8;
+}
+#content {
+  border-radius: 8px;
+  padding: 14px 7px;
+  background: #fff;
+  max-width: 330px;
+  margin: 25vh auto;
+  box-shadow: 0 2px 3px rgba(71, 71, 71, 0.3);
+}
+
+.info {
+  margin: 0;
+  text-transform: capitalize;
+  letter-spacing: -0.03em;
+}
+
+/* Responsive Design => Large devices (laptops/desktops, 992px and up) */
+
+@media only screen and (min-width: 992px) {
+  .section-b-inner h3 {
+    font-size: 3rem;
+    display: inline-block;
+    width: 30rem;
+    margin-right: 45rem;
+  }
+}
+
+.section-b-inner h2 {
+  font-size: 2rem;
+  margin-top: 1rem;
+  display: inline-block;
+  width: 30rem;
+  margin-right: 45rem;
+}
+
+.section-b-inner p {
+  font-size: 1rem;
+  margin-top: 1rem;
+  display: inline-block;
+  width: 22rem;
+  margin-right: 52rem;
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+  .section-b-inner h3 {
+    font-size: 3rem;
+    display: inline-block;
+    width: 20rem;
+  }
+}
+
+.section-b-inner h2 {
+  font-size: 2rem;
+  margin-top: 1rem;
+  display: inline-block;
+  width: 30rem;
+  margin-right: 40rem;
+}
+
+.section-b-inner p {
+  font-size: 1rem;
+  margin-top: 1rem;
+  display: inline-block;
+  width: 22rem;
+  margin-right: 42rem;
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+  .navbar .logo {
+    text-shadow: 1px 1px 1px blue;
+    font-family: "Lobster", cursive;
+    font-size: 2.8rem;
+    letter-spacing: 5px;
+    margin-top: 3rem;
+  }
+  .section-a .container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 5.5rem;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .section-a h1 {
+    font-size: 2.5rem;
+    color: rgb(91, 83, 83);
+  }
+
+  .section-a p {
+    margin: 1rem 0;
+  }
+
+  .section-a .container img {
+    border-radius: 100px;
+    box-shadow: 0 1px 4px 2px rgba(0, 0, 0, 0.5);
+  }
+  .section-b-inner h3 {
+    font-size: 2rem;
+    display: inline-block;
+    width: 20rem;
+    padding-top: 5rem;
+    padding-left: 8rem;
+  }
+}
+
+.section-b-inner h2 {
+  font-size: 2rem;
+  margin-top: 1rem;
+  display: inline-block;
+  width: 20rem;
+  margin-right: 32rem;
+}
+
+.section-b-inner p {
+  font-size: 1rem;
+  margin-top: 1rem;
+  display: inline-block;
+  width: 20rem;
+  margin-right: 32rem;
+}
