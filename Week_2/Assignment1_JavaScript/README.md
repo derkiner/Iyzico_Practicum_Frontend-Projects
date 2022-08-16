@@ -5,6 +5,7 @@ JavaScript Clock Project
 NOTES:
 - The design and color choice are all original. No boilerplate codes are used. 
 - As the project leaves room for flexibility, I preferred to utilise a button to show the full date.
+- A well-known CSS expert from the States enabled me to conquer many animations and I used them in this project. If you want to explore more about the techniques, here is the webpage of that valuable developer: https://www.joshwcomeau.com/tutorials/animation/
 - For the live version, visit my CodePen account => https://codepen.io/Digital_Nomad/full/jOYBZWW
 
 <hr>
