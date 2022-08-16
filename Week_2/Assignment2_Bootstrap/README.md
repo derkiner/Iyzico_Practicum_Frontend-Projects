@@ -3,7 +3,7 @@
 <hr>
 
 NOTES:
-- To get some random faces / instagram users, the following tool is used: https://www.uifaces.co/
+- To get the random faces / instagram users, the following free tool is used: https://www.uifaces.co/
 - Simply click here for the live version of the project => https://bootstrap-instagram-clone-frontend.netlify.app/
 
 <hr>
