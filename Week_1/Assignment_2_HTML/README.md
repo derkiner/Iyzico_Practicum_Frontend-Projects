@@ -1,5 +1,5 @@
 
-## Improved Version / HTML-based Self-Presentation Project (with voluntary CSS styling)
+## Improved Version / HTML-based Self-Presentation Project (with some voluntary CSS styling)
 
 <hr>
 
