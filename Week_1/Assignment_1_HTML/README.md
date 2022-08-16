@@ -4,7 +4,7 @@
 <hr>
 
 Tools used :
-- Box Shadow Generator (https://box-shadow.dev/)  
+- Box Shadow Generator => https://box-shadow.dev/
 
 <hr>
 
