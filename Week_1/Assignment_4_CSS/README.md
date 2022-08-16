@@ -1,4 +1,4 @@
-A Free style Responsive CSS Project / Cafe Website
+A Free-style Responsive CSS Project / Cafe Website
 
 <hr>
 
