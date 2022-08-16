@@ -4,6 +4,7 @@ JavaScript Clock Project
 
 NOTES:
 - The design and color choice are all original. No boilerplate codes are used. 
+- As the project leaves room for flexibility, I preferred to utilise a button to show the full date.
 - For the live version, visit my CodePen account => https://codepen.io/Digital_Nomad/full/jOYBZWW
 
 <hr>
