@@ -1,4 +1,4 @@
-# Iyzico_Practicum_Frontend-Projects
+## Project Based Frontend Development by Iyzico
 Frontend Practicum (React-based)
 
 ![image](https://user-images.githubusercontent.com/90147636/184831442-e0e521b2-28e5-4082-8f20-bc55ec1a5cf6.png)
