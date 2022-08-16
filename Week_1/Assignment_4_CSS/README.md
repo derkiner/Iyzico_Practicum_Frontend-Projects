@@ -5,6 +5,11 @@ Free style CSS Project
 Tools used:
 - Contrast checker: https://coolors.co/
 
+Notes:
+- The design is original. No boilerplate codes are used.
+- The cafe exists in Amsterdam, but it has a completely different website.
+- English content (slogans etc.) belongs to me. Non-English content is extracted through https://hipsum.co/ , which is an alternative to lorem ipsum placeholder text generator.
+
 <hr>
 
 
