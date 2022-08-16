@@ -1,4 +1,4 @@
-JavaScript Clock / Date Project
+## JavaScript Clock / Date Project
 
 <hr>
 
