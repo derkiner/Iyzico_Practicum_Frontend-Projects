@@ -3,9 +3,10 @@ JavaScript Clock / Date Project
 <hr>
 
 NOTES:
-- The design and color choice are all original. No boilerplate codes are used. 
+- The design and color choice are all original and products of imagination. No boilerplate codes are used. 
 - As the project leaves room for flexibility, I preferred to utilise a button to show the full date.
-- A well-known CSS expert from the States enabled me to conquer many animations and I used them in this project. If you want to explore more about the techniques, here is the webpage of that valuable developer: https://www.joshwcomeau.com/tutorials/animation/
+- Hover over the clock from different angles to be able to change the color of the clock. Linear gradients can create magnificent shades.
+- There are a lot of CSS tricks and animations within this specific project. A well-known CSS expert from the States enabled me to conquer animations and I used some of them in this project. If you want to explore more about the related techniques, here is the webpage of that valuable developer: https://www.joshwcomeau.com/tutorials/animation/
 - For the live version, visit my CodePen account => https://codepen.io/Digital_Nomad/full/jOYBZWW
 
 <hr>
