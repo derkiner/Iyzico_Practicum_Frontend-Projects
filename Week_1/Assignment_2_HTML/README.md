@@ -4,7 +4,7 @@
 <hr>
 
 Tools used:
-Button / Box Shadow Generator => https://html-css-js.com/css/generator/box-shadow/
+- Button / Box Shadow Generator => https://html-css-js.com/css/generator/box-shadow/
 
 <hr>
 
