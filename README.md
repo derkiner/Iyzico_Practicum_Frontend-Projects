@@ -1,4 +1,4 @@
-# React-based Practicum by Iyzico
+# React-based Practicum by Iyzico & Patika
 ## Project-oriented Front-end Development
 
 
