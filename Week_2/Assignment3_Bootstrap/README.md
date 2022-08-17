@@ -4,6 +4,7 @@
 
 <hr>
 NOTES:
+
 - Click on the following link for the live version of the project: https://bootstrap-linkedin-clone.netlify.app/
 <hr>
 
