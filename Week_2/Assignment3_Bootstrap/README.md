@@ -1,6 +1,6 @@
 # Iyzico Front-end Practicum Project
 
-## Bootstrap-based / Responsive Design Linkedin Clone 
+## Bootstrap-based / Linkedin Clone (Responsive Design)
 
 <hr>
 NOTES:
