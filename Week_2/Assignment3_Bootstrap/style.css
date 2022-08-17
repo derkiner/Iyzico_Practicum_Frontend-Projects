@@ -203,3 +203,18 @@ button.ref:hover {
     opacity: 0;
   }
 }
+
+@media only screen and (max-width: 779px) {
+  .col-3 {
+    opacity: 0;
+  }
+
+  .card-disappear {
+    height: 0;
+  }
+
+  .img-input-wrapper,
+  .form-control content {
+    opacity: 0;
+  }
+}
