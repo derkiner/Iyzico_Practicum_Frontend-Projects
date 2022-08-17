@@ -15,4 +15,4 @@ SCHEDULE:
 
 <hr>
 
-NOTES : Regarding all the projects, I do my best to apply Robert C. Martin's (a well-known software engineer & and best-selling author) clean code principles => https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29 
+NOTES : Regarding all the projects, I do my best to apply Robert C. Martin's (a well-known software engineer & best-selling author) clean code principles => https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29 
