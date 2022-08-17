@@ -1,5 +1,5 @@
 
-## End of HTML Section / Basic Site with multiple pages (with some CSS styling / not responsive though)
+## End of HTML Section => A basic site with multiple pages (with some CSS styling / not responsive though)
 
 <hr>
 
