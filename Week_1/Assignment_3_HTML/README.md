@@ -1,4 +1,4 @@
-## Free style CSS-based Project / A Healthy Recipe
+## A Free-style HTML Project with styling touches / A Healthy Recipe
 
 <hr> 
 The design is original. No boilerplate codes are used in this project.
