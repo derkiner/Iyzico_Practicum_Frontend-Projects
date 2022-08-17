@@ -11,7 +11,7 @@ Notes:
 - A minimalist design is preferred and it is original. No boilerplate codes are used.
 - The cafe exists in Amsterdam, but it has a completely different website.
 - Contact & About links are working and directing the users to new pages as requested.
-- English content (slogans etc.) belongs to me. Non-English content is extracted through https://hipsum.co/ , which is an alternative to lorem ipsum placeholder text generator.
+- I created the English content (slogans etc.) from scratch and the non-English content is extracted through https://hipsum.co/ , which is an alternative to lorem ipsum placeholder text generator.
 
 
 <hr>
