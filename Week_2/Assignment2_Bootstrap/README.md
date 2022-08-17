@@ -4,7 +4,7 @@
 
 NOTES:
 - To get the random faces / imaginary instagram users in this project, the following free tool is used: https://www.uifaces.co/
-- Simply click on the link for the live version of the project => https://bootstrap-instagram-clone-frontend.netlify.app/
+
 
 <hr>
 
