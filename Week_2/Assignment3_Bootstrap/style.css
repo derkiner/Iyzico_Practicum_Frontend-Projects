@@ -176,7 +176,6 @@ button.ref:hover {
 }
 
 /* RESPONSIVE DESIGN DETAILS */
-
 @media only screen and (max-width: 1324px) and (min-width: 600px) {
   .menutext {
     font-size: 0.7rem;
@@ -214,7 +213,8 @@ button.ref:hover {
   }
 
   .img-input-wrapper,
-  .form-control content {
+  .form-control content,
+  .body-buttons {
     opacity: 0;
   }
 }
