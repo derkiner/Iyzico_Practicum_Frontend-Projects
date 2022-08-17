@@ -10,7 +10,7 @@ NOTES:
 - I also integrated the prompt part as requested; however, I disabled it to prevent speed-related issues on CodePen.
 
 <hr>
--For the live version of the project, simply visit my CodePen account => https://codepen.io/Digital_Nomad/full/jOYBZWW
+For the live version of the project, simply visit my CodePen account => https://codepen.io/Digital_Nomad/full/jOYBZWW
 
 <hr>
 
