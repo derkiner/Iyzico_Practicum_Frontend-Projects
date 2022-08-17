@@ -1,4 +1,3 @@
-# Iyzico Front-end Practicum Project
 
 ## Bootstrap-based / Linkedin Clone 
 
