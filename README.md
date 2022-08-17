@@ -13,4 +13,6 @@ SCHEDULE:
 - Week 3 => Advanced JavaScript projects
 - Week 4-5-6-7 => React Hooks, Axios, Redux & relevant projects
 
-*** Regarding all the projects, I do my best to apply Robert C. Martin's (a well-known software engineer & and best-selling author) clean code principles => https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29 
+<hr>
+
+NOTES : Regarding all the projects, I do my best to apply Robert C. Martin's (a well-known software engineer & and best-selling author) clean code principles => https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29 
