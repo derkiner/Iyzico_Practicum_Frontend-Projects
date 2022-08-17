@@ -9,7 +9,7 @@ NOTES:
 - Click on the following link for the live version of the project: https://bootstrap-linkedin-clone.netlify.app/ 
 <hr>
 
-![image](https://user-images.githubusercontent.com/90147636/185168164-6da79955-ba5f-48ca-91c6-721cf50cf010.png)
+![image](https://user-images.githubusercontent.com/90147636/185168600-ce3b76fd-0c69-44ef-8e6f-175576d65656.png)
 
 ![image](https://user-images.githubusercontent.com/90147636/185144579-a27c8d69-8a42-4448-8ce9-a8288532f9e5.png)
 
