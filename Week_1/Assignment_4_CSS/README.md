@@ -5,6 +5,8 @@
 Tools used:
 - Contrast checker: https://coolors.co/
 
+<hr>
+
 Notes:
 - A minimalist design is preferred and it is original. No boilerplate codes are used.
 - The cafe exists in Amsterdam, but it has a completely different website.
