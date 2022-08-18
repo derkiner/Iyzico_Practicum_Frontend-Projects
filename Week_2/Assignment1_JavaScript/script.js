@@ -44,6 +44,7 @@ function setDate() {
 /* clock ripple effect arrangement */
 let ripple;
 
+// update every 1s
 setInterval(setDate, 1000);
 
 // DOM manipulation & event listeners
