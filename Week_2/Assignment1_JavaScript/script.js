@@ -1,5 +1,4 @@
-// Hover over the clock to see the ripple effect - shades will be different every time it is clicked through different angles.  
-
+// variables 
 const hour = document.querySelector(".hour");
 const minute = document.querySelector(".minute");
 const second = document.querySelector(".second");
@@ -13,8 +12,7 @@ function date() {
 
 
 
-//Disabled Prompt Code (The prompt part is disabled, but when it is active, it will welcome the visitor with his/her name.)
-
+// disabled prompt code - when it is active, it will welcome the visitor with his/her name.)
 /* let yourName = prompt("Please enter your name!");
 info.innerHTML += `${yourName}`;
  */
