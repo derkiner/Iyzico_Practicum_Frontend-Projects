@@ -5,6 +5,7 @@ const second = document.querySelector(".second");
 const clock = document.querySelector(".clock");
 let info = document.querySelector("#myName");
 
+
 // date set-up
 function date() {
   let date = new Date().toLocaleString("tr-TR");
@@ -12,13 +13,10 @@ function date() {
 }
 
 
-
 // disabled prompt code - when it is active, it will welcome the visitor with his/her name.)
 /* let yourName = prompt("Please enter your name!");
 info.innerHTML += `${yourName}`;
  */
-
-
 
 
 /* clock set-up */
@@ -37,7 +35,6 @@ function setDate() {
   minute.style.transform = `rotate(${minuteDegree}deg)`;
   hour.style.transform = `rotate(${hourDegree}deg)`;
 }
-
 
 
 
