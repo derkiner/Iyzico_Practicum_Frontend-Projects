@@ -5,6 +5,7 @@ const second = document.querySelector(".second");
 const clock = document.querySelector(".clock");
 let info = document.querySelector("#myName");
 
+// date set-up
 function date() {
   let date = new Date().toLocaleString("tr-TR");
   document.getElementById("myClock").innerHTML = date;
@@ -45,6 +46,7 @@ let ripple;
 
 setInterval(setDate, 1000);
 
+// DOM manipulation & event listeners
 clock.addEventListener("mouseenter", (e) => {
   const left = e.clientX - e.target.getBoundingClientRect().left;
   const top = e.clientY - e.target.getBoundingClientRect().top;
