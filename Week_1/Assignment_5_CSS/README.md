@@ -2,7 +2,7 @@
 
 <hr>
 
-Self-criticism: To achieve the exact replica, I should have used div components rather than a table in this project. However, I'll leave it as it is so that it can remind me to come up with better design decisions in the near future when it comes to similar projects.
+Self-criticism: To form the exact replica, I should have used div components rather than a table in this project. However, I'll leave it as it is so that it can remind me to come up with better design decisions in the near future when it comes to similar projects.
 
 <hr>
 
