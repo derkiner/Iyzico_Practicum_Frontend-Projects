@@ -20,7 +20,7 @@ NOTES : With regard to all projects, I do my best to apply Robert C. Martin's (a
 
 <hr>
 
-<img src="https://user-images.githubusercontent.com/90147636/185757558-5f2ddd6e-7199-427c-b08e-ef1f7f2b738f.png" width="150" height="280")
+<img src="https://user-images.githubusercontent.com/90147636/185757558-5f2ddd6e-7199-427c-b08e-ef1f7f2b738f.png"  width="150" height="280")
 
 
 
