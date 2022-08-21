@@ -21,7 +21,7 @@ NOTES : With regard to all projects, I do my best to apply Robert C. Martin's (a
 <hr>
 
 ![image](https://user-images.githubusercontent.com/90147636/185757993-c9e4bfb2-ed54-46ae-8b22-6cb06638c133.png)
-* Illustration (3 Pillars of Success in Web Development) by Jonas Schmedtmann *
+*Illustration (3 Pillars of Success in Web Development) by Jonas Schmedtmann*
 
 
 
