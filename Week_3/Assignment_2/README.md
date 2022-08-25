@@ -14,10 +14,10 @@ This website is hosted here => https://dominant-to-do-app.netlify.app/
 <hr>
 
 ## References
-For Fonts => Google Fonts (https://fonts.google.com/)
-For Color Coordination => Tint & Shade Generator (https://maketintsandshades.com/)
-For JavaScript => Case Studies (https://www.amazon.com/Secrets-JavaScript-Ninja-John-Resig/dp/1617292850)
-For Advanced CSS Techniques => Josh Comeau's articles (https://www.joshwcomeau.com/tutorials/animation/)
+- For Fonts => Google Fonts (https://fonts.google.com/)
+- For Color Coordination => Tint & Shade Generator (https://maketintsandshades.com/)
+- For JavaScript => Case Studies (https://www.amazon.com/Secrets-JavaScript-Ninja-John-Resig/dp/1617292850)
+- For Advanced CSS Techniques => Josh Comeau's articles (https://www.joshwcomeau.com/tutorials/animation/)
 
 <hr>
 
