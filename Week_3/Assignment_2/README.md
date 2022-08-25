@@ -5,11 +5,7 @@ This website is hosted here => https://dominant-to-do-app.netlify.app/
 
 <hr>
 
-
-
-[Demo.mov.zip](https://github.com/derkiner/Iyzico_Practicum_Frontend-Projects/files/9426229/Demo.mov.zip)
-
-
+https://user-images.githubusercontent.com/90147636/186711130-23696658-32d4-4f3c-bfd3-6efb61bafebb.mov
 
 
 <hr>
