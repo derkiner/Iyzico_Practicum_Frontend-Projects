@@ -8,7 +8,7 @@ This website is hosted here => https://dominant-to-do-app.netlify.app/
 ## Features:
 - User-friendly
 - Local Storage Supported
-- Responsive, on all devices
+- Responsive on all devices
 - Animations / Keyframes
 
 <hr>
@@ -21,3 +21,6 @@ This website is hosted here => https://dominant-to-do-app.netlify.app/
 
 <hr>
 
+https://drive.google.com/file/d/1QBlExJgNh8g2kD17tNtvXE3eV2aqoce7/view?usp=sharing
+
+<hr>
