@@ -3,7 +3,7 @@
 
 ## DEMO
 - This website is hosted here => https://dominant-to-do-app.netlify.app/ 
-- In addition, the relevant screen recording is also attached down below.
+- The relevant screen recording is also attached down below.
 
 <hr>
 
