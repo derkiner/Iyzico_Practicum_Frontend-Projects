@@ -14,7 +14,7 @@ https://user-images.githubusercontent.com/90147636/186711130-23696658-32d4-4f3c-
 
 ## Features:
 - User-friendly
-- Creative Content & Unusual Title
+- Original & Creative Content 
 - Clean Code Principles 
 - Local Storage Supported
 - Responsive on all devices
