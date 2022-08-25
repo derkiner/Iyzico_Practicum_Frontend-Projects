@@ -20,7 +20,7 @@ https://user-images.githubusercontent.com/90147636/186711130-23696658-32d4-4f3c-
 
 <hr>
 
-## References
+## References:
 - For Fonts => Google Fonts (https://fonts.google.com/)
 - For Color Coordination => Tint & Shade Generator (https://maketintsandshades.com/)
 - For JavaScript => Case Studies (https://www.amazon.com/Secrets-JavaScript-Ninja-John-Resig/dp/1617292850)
@@ -28,7 +28,7 @@ https://user-images.githubusercontent.com/90147636/186711130-23696658-32d4-4f3c-
 
 <hr>
 
-## SCREENSHOTS (Different Levels of Responsiveness)
+## SCREENSHOTS (Different Levels of Responsiveness):
 
 ![image](https://user-images.githubusercontent.com/90147636/186712586-ee96ae3e-738f-4ec7-ae5b-a01dd91385b6.png)
 
