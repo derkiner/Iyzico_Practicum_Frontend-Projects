@@ -26,6 +26,16 @@ https://user-images.githubusercontent.com/90147636/186711130-23696658-32d4-4f3c-
 
 <hr>
 
+## SCREENSHOTS (Different Levels of Responsiveness)
 
+![image](https://user-images.githubusercontent.com/90147636/186711919-712ef989-abad-46bb-9b4f-e12412b82da3.png)
+
+<hr>
+
+![image](https://user-images.githubusercontent.com/90147636/186712016-9baee96a-d3c5-4588-85b8-b9c86c0f92d7.png)
+
+<hr>
+
+![image](https://user-images.githubusercontent.com/90147636/186712192-724c4c02-46ff-4ec1-b52f-24dffc8a5201.png)
 
 
