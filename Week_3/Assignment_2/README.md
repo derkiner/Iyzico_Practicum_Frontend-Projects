@@ -2,7 +2,8 @@
 # Dominant To-Do App
 
 ## DEMO
-This website is hosted here => https://dominant-to-do-app.netlify.app/ and the relevant screen recording is also attached down below.
+- This website is hosted here => https://dominant-to-do-app.netlify.app/ 
+- In addition, the relevant screen recording is also attached down below.
 
 <hr>
 
