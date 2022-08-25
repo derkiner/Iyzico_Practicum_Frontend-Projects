@@ -7,7 +7,8 @@ This website is hosted here => https://dominant-to-do-app.netlify.app/
 
 
 
-Uploading Screen Recording 2022-08-25 at 18.30.40.mov…
+[Demo.mov.zip](https://github.com/derkiner/Iyzico_Practicum_Frontend-Projects/files/9426229/Demo.mov.zip)
+
 
 
 
