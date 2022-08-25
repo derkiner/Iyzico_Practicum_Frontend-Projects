@@ -5,6 +5,14 @@ This website is hosted here => https://dominant-to-do-app.netlify.app/
 
 <hr>
 
+
+
+Uploading Screen Recording 2022-08-25 at 18.30.40.mov…
+
+
+
+<hr>
+
 ## Features:
 - User-friendly
 - Local Storage Supported
@@ -21,6 +29,6 @@ This website is hosted here => https://dominant-to-do-app.netlify.app/
 
 <hr>
 
-https://drive.google.com/file/d/1QBlExJgNh8g2kD17tNtvXE3eV2aqoce7/view?usp=sharing
 
-<hr>
+
+
