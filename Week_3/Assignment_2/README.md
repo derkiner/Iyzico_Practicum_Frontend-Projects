@@ -25,7 +25,7 @@ https://user-images.githubusercontent.com/90147636/186711130-23696658-32d4-4f3c-
 ## References:
 - For Fonts => Google Fonts (https://fonts.google.com/)
 - For Color Coordination => Tint & Shade Generator (https://maketintsandshades.com/)
-- For JavaScript => Case Studies (https://www.amazon.com/Secrets-JavaScript-Ninja-John-Resig/dp/1617292850)
+- For JavaScript => Case Studies from 'Secrets of JavaScript Ninja' (https://www.amazon.com/Secrets-JavaScript-Ninja-John-Resig/dp/1617292850)
 - For Advanced CSS Techniques => Josh Comeau's articles (https://www.joshwcomeau.com/tutorials/animation/)
 
 <hr>
