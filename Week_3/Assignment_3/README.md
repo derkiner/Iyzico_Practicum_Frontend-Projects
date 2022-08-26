@@ -2,14 +2,14 @@
 # Asian Kitchen's Menu
 
 ## DEMO
-- This website is hosted here => https://asian-menu.netlify.app/
+- This project is hosted here => https://asian-menu.netlify.app/
 
 
 <hr>
 
 ## Features:
 - Clean Code Principles (Detailed Notes & Meaningful Variable Names)
-- CSS styling on the existing project
+- The content is the same as requested, but there is some more CSS styling on the existing project.
 - In CSS, 'px' values are replaced with 'rem' ones on purpose
 (Reason: It is known that 'rem' figures are more responsive. Here is my article/detailed analysis on this topic: https://www.freecodecamp.org/news/override-root-font-size-for-a-better-user-experience/)
 
