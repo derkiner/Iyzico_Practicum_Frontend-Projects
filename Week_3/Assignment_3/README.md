@@ -10,8 +10,8 @@
 ## Features:
 - Clean Code Principles (Detailed Notes & Meaningful Variable Names)
 - CSS styling on the existing project
-- 'px' values are replaced with 'rem' ones
-('rem' figures are more responsive. Here is my article/detailed analysis on this topic: https://www.freecodecamp.org/news/override-root-font-size-for-a-better-user-experience/)
+- In CSS, 'px' values are replaced with 'rem' ones on purpose
+(Reason: It is known that 'rem' figures are more responsive. Here is my article/detailed analysis on this topic: https://www.freecodecamp.org/news/override-root-font-size-for-a-better-user-experience/)
 
 
 <hr>
@@ -37,13 +37,8 @@
 ![image](https://user-images.githubusercontent.com/90147636/186873604-7ab3a0ec-bd6b-4379-a26f-b031d76d2fbf.png)
 
 
-
 <hr>
 ![image](https://user-images.githubusercontent.com/90147636/186873810-0069c694-2272-4acb-b5a7-295d76e1690a.png)
-
-
-
-
 
 
 
