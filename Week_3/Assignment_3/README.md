@@ -18,7 +18,7 @@
 
 ## References:
 - For Fonts => Google Fonts (https://fonts.google.com/)
-- For Color Coordination => Coding Heroes Resources ([https://maketintsandshades.com/](https://codingheroes.io/resources/))
+- For Color Coordination => Coding Heroes Resources (https://codingheroes.io/)
 - For JavaScript => Case Studies from 'JavaScript Cookbook' (https://www.amazon.com/JavaScript-Cookbook-Programming-Adam-Scott/dp/1492055751)
 - For Advanced CSS Techniques => Jonas Schmedtmann's advanced CSS / SASS Udemy Course (https://www.udemy.com/course/advanced-css-and-sass/)
 
