@@ -38,7 +38,7 @@
 
 
 <hr>
-![image](https://user-images.githubusercontent.com/90147636/186873810-0069c694-2272-4acb-b5a7-295d76e1690a.png)
+
 
 
 
