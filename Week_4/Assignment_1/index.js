@@ -1,5 +1,7 @@
+// importing axios library
 import axios from "axios";
 
+// asynch & await functions inside try & catch block 
 export default async (user_id) => {
   try {
     const { data: user } = await axios(
