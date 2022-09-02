@@ -12,7 +12,7 @@ SCHEDULE:
 - Week 1 => Revisiting the fundamentals in HTML5 & CSS3 via projects
 - Week 2 => Bootstrap & JavaScript projects
 - Week 3 => Advanced JavaScript projects
-- Week 4-5-6-7 => React Hooks, Axios, Redux & Relevant Projects
+- Week 4-5-6-7 => React Hooks, Axios, Redux & relevant projects
 
 <hr>
 
