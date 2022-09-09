@@ -13,7 +13,7 @@ SCHEDULE:
 - Week 2 => Bootstrap & JavaScript projects
 - Week 3 => Advanced JavaScript projects
 - Week 4-5-6-7 => React Hooks, Axios, Redux & relevant projects
-*** Final Project & Code Review ***
+- *** Final Project & Code Review ***
 
 <hr>
 
