@@ -10,8 +10,8 @@
 - I also integrated the prompt part as requested; however, I disabled it to prevent speed-related issues on CodePen.
 
 <hr>
-### Live Demo On My CodePen Account 
-https://codepen.io/Digital_Nomad/full/jOYBZWW
+
+### Live Demo On My CodePen Account => https://codepen.io/Digital_Nomad/full/jOYBZWW
 
 <hr>
 
